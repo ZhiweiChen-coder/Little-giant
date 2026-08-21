@@ -1,5 +1,9 @@
 # Little Giant — MIDI Care Garden
 
+![Little Giant care garden interface](assets/little-giant-care-garden.png)
+
+![Little Giant marimba controls](assets/little-giant-marimba-controls.png)
+
 Little Giant is a local React + TypeScript HCI prototype. It turns an AKAI MPK Mini MKII (or the on-screen simulator) into a small care ritual: play a note, hear a marimba tone, and watch a companion dance.
 
 The project is designed for a short classroom demonstration of the interaction loop:
